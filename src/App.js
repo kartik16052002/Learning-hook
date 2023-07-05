@@ -1,10 +1,10 @@
-
+import FindUser from './Components/FindUser';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Hello React
+      <FindUser />
     </div>
   );
 }
